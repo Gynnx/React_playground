@@ -1,9 +1,5 @@
 console.log('e6-classes-1 working!');
 
-class IndecisionApp extends React.Component {
-
-};
-
 class Person {
     constructor(name = 'Anne', age = 0) {
         this.name = name;  
